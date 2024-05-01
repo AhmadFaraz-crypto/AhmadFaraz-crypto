@@ -1,6 +1,9 @@
 ### Hi there 👋
 
 <a href="https://github.com/AhmadFaraz-crypto">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmadFaraz-crypto&show_icons=true&locale=en&layout=compact" align="left" alt="Ahmad Faraz's GitHub stats" />
+</a>
+<a href="https://github.com/AhmadFaraz-crypto">
   <img src="https://github-readme-stats.vercel.app/api?username=AhmadFaraz-crypto&show_icons=true&locale=en" align="right" alt="Ahmad Faraz's GitHub stats" />
 </a>
 <!--
