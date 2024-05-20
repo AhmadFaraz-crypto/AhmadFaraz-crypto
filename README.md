@@ -1,11 +1,15 @@
 ### Hi there 👋
 
 <a href="https://github.com/AhmadFaraz-crypto">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmadFaraz-crypto&show_icons=true&locale=en&layout=compact" align="left" alt="Ahmad Faraz's GitHub stats" />
-</a>
-<a href="https://github.com/AhmadFaraz-crypto">
   <img src="https://github-readme-stats.vercel.app/api?username=AhmadFaraz-crypto&show_icons=true&locale=en" align="right" alt="Ahmad Faraz's GitHub stats" />
 </a>
+
+Hi! I'm an open source developer looking for new things to learn, challenges.
+
+### Favorite languages
+
+Typescript, JavaScript, C++
+
 <!--
 **AhmadFaraz-crypto/AhmadFaraz-crypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
