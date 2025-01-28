@@ -10,7 +10,7 @@ Hi! I'm an open source developer looking for new things to learn, challenges.
 
 Typescript, JavaScript, C++
 
-currently working on <a href="convertkr.com">ConvertKr</a>
+currently working on <a href="https://convertkr.com/" target="_blank">ConvertKr</a>
 
 <!--
 **AhmadFaraz-crypto/AhmadFaraz-crypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
