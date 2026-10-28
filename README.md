@@ -10,7 +10,7 @@ Hi! I'm an open source developer looking for new things to learn, challenges.
 
 Typescript, JavaScript, C++
 
-currently working on <a href="[[https://convertkr.com](https://github.com/AhmadFaraz-crypto/QueryRank)](https://github.com/AhmadFaraz-crypto/QueryRank)" target="_blank">QueryRank</a>
+currently working on <a href="https://github.com/AhmadFaraz-crypto/QueryRank" target="_blank">QueryRank</a>
 
 <!--
 **AhmadFaraz-crypto/AhmadFaraz-crypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
